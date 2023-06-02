@@ -44,6 +44,7 @@
     "mongodb": "^5.1.0",
     "mongodb-schema": "^10.0.1",
     "open": "^9.1.0",
-    "reload": "^3.2.1"
+    "reload": "^3.2.1",
+    "nodemon": "^2.0.22"
   }
 }
